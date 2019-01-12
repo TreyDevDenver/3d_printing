@@ -6,9 +6,9 @@
 M140 S60
 M105
 M190 S60
-M104 S195
+M104 S200
 M105
-M109 S195
+M109 S200
 M82 ;absolute extrusion mode
 G21 ;metric values
 G90 ;absolute positioning
